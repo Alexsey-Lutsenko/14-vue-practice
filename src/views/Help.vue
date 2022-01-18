@@ -15,7 +15,7 @@ import QuestionItem from "../components/question/QuestionItem.vue"
 export default {
   setup() {
     const questions = [
-      {title: 'Что есть в данной системе?', text: 'Тут есть все что нужно'},
+      {title: 'Что есть в данной системе?', text: 'Тут есть все что нужно, чтобы быстро учиться'},
       {title: 'Как тут работает авторизация?', text: 'Все реализовано через FireBase'}
     ]
 
