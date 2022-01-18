@@ -1,5 +1,5 @@
 <template>
-  <app-page :back="true" :title="'Помощь'">
+  <app-page :back="true" :title="'Часто задаваемые вопросы'">
     <question-item
       v-for="q in questions"
       :key="q.title"
